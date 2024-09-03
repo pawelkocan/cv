@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715519994.28015 "c:/Users/pawel/IdeaProjects/cv/main.tex" "main.pdf" "main" 1715519995.32044 0
+["pdflatex"] 1725388022.42118 "c:/Users/pawel/IdeaProjects/cv/main.tex" "main.pdf" "main" 1725388024.34113 0
   "28454576.jpg" 1715501651 16349 211b8cdb479213e7ad8eab4646f731e6 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256929440 2840 216e6e45ad352e2456e1149f28885bee ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256929440 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -162,10 +162,10 @@
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/pawel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715513580 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pawel/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1715513590 24230539 37f91c7b4e9d2359b723ff45f15cb2d1 ""
-  "c:/Users/pawel/IdeaProjects/cv/main.tex" 1715519993 7744 a00c3c171292beea7d0eaba1a3c5a5e1 ""
-  "main.aux" 1715519995 205 9b67505aeb0ce4300f679c06ffaa0cc8 "pdflatex"
-  "main.out" 1715519995 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1715519993 7744 a00c3c171292beea7d0eaba1a3c5a5e1 ""
+  "c:/Users/pawel/IdeaProjects/cv/main.tex" 1725388020 7145 8ca856492f23b2b53d28aa300f9a3be1 ""
+  "main.aux" 1725388024 205 9b67505aeb0ce4300f679c06ffaa0cc8 "pdflatex"
+  "main.out" 1725388023 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1725388020 7145 8ca856492f23b2b53d28aa300f9a3be1 ""
   "resume.cls" 1715510422 4162 dba0bcbe48a16404d148f359a0cb74e0 ""
   (generated)
   "main.aux"
